@@ -10,5 +10,6 @@
     "name": "Cumulative Web Inc",
     "url": "https://cumulativeweb.com/"
   },
-  "description": "Five-step starter manifest for agents entering the CWI world, from identity card to first trust claim."
+  "description": "Five-step starter manifest for agents entering the CWI world, from identity card to first trust claim.",
+  "schema_version": "1.0.0"
 }
