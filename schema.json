@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Agent Onboarding Pack (#45)",
+  "url": "https://cumulativewebinc.github.io/cwi-onboarding-pack/",
+  "applicationCategory": "DeveloperApplication",
+  "operatingSystem": "Web",
+  "author": {
+    "@type": "Organization",
+    "name": "Cumulative Web Inc",
+    "url": "https://cumulativeweb.com/"
+  },
+  "description": "Five-step starter manifest for agents entering the CWI world, from identity card to first trust claim."
+}
